@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-Welcome to my portfolio! This page will eventually showcases my work as a web developer and provides insight into who I am and what I do.
+Welcome to my portfolio! This page will eventually showcase my work as a web developer and provide insight into who I am and what I do.
 
 ---
 
@@ -16,7 +16,7 @@ Welcome to my portfolio! This page will eventually showcases my work as a web de
 
 ## About Me
 
-I’m someone who loves creating responsive and dynamic apps. General focus on delivering excellent user experiences and implementing efficient, scalable solutions. I enjoy learning new technologies, exploring design patterns, and mastering algorithms. My favorite things to code are interactivity and animations!
+I’m someone who loves creating responsive and dynamic apps. General focus on delivering excellent user experiences and implementing efficient, scalable solutions. I enjoy learning new technologies, exploring design patterns, and mastering algorithms. My favourite things to code are interactivity and animations!
 
 ---
 
@@ -51,6 +51,7 @@ On the scripting side, it was fun overengineering what could have been some very
 ## Live Demo
 
 You can view my portfolio live at:  
-[**sarbastu.github.io/portfolio/**](https://sarbastu.github.io/portfolio/)
+[**sarbastu.github.io/me/**](https://sarbastu.github.io/me/)
 
 ---
+
